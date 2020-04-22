@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1587561925 source:c:\users\dell\desktop\alex info\poo_tema2\main.cpp
+	<iostream>
+	"Incapere.h"
+	"Camera.h"
+	"Apartament.h"
+	"SalaConferinta.h"
+	"Hotel.h"
+	"Participant.h"
+	"Grup.h"
+	<conio.h>
+
+1587588579 source:c:\users\dell\desktop\alex info\poo_tema2\src\apartament.cpp
+	"Apartament.h"
+	<iostream>
+	<fstream>
+
+1587588579 c:\users\dell\desktop\alex info\poo_tema2\include\apartament.h
+	"Incapere.h"
+	<iostream>
+	<fstream>
+
+1587588668 c:\users\dell\desktop\alex info\poo_tema2\include\incapere.h
+
+1587588579 source:c:\users\dell\desktop\alex info\poo_tema2\src\camera.cpp
+	"Camera.h"
+	<iostream>
+	<fstream>
+
+1587588579 c:\users\dell\desktop\alex info\poo_tema2\include\camera.h
+	"Incapere.h"
+	<iostream>
+	<fstream>
+
+1587588667 source:c:\users\dell\desktop\alex info\poo_tema2\src\incapere.cpp
+	"Incapere.h"
+
+1587235613 source:c:\users\dell\desktop\alex info\poo_tema2\src\salaconferinta.cpp
+	"SalaConferinta.h"
+
+1587234463 c:\users\dell\desktop\alex info\poo_tema2\include\salaconferinta.h
+	<iostream>
+	<string>
+	<vector>
+
+1587573451 source:c:\users\dell\desktop\alex info\poo_tema2\src\hotel.cpp
+	"Hotel.h"
+
+1587573451 c:\users\dell\desktop\alex info\poo_tema2\include\hotel.h
+	"Incapere.h"
+	"Camera.h"
+	"Apartament.h"
+	"SalaConferinta.h"
+
+1587245110 c:\users\dell\desktop\alex info\poo_tema2\include\participant.h
+	<string>
+	<iostream>
+
+1587561442 c:\users\dell\desktop\alex info\poo_tema2\include\grup.h
+	"Participant.h"
+	<vector>
+	<string>
+	<exception>
+
+1587562098 source:c:\users\dell\desktop\alex info\poo_tema2\src\grup.cpp
+	"Grup.h"
+	"NonPerioada.h"
+
+1587342903 source:c:\users\dell\desktop\alex info\poo_tema2\src\participant.cpp
+	"Participant.h"
+
+1587561396 c:\users\dell\desktop\alex info\poo_tema2\include\nonperioada.h
+	<exception>
+
